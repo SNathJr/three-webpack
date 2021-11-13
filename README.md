@@ -15,7 +15,7 @@ npm i -g degit
 Use degit to clone this repo.
 
 ```
-npx degit snathjr/webpack
+npx degit snathjr/three-webpack
 ```
 
 Install dependencies (one time)
